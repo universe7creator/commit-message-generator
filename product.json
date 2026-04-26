@@ -1,0 +1,33 @@
+{
+  "name": "commit-message-generator",
+  "slug": "commit-message-generator",
+  "tagline": "AI-powered tool that analyzes git diffs and generates meaningful conventional commit messages in seconds",
+  "description": "AI-powered tool that analyzes git diffs and generates meaningful conventional commit messages in seconds. Paste your diff, get a proper commit message.",
+  "short_description": "Git diff to commit message AI",
+  "category": "developer-tools",
+  "price": "$0",
+  "features": [
+    "Git diff analysis",
+    "Conventional commit format",
+    "Multiple output formats (conventional/emoji/concise)",
+    "Scope auto-detection from file paths",
+    "Copy to clipboard",
+    "Client-side API call (no server-side key)"
+  ],
+  "tech_stack": "Single HTML + Vanilla JS",
+  "status": "live",
+  "vercel_url": null,
+  "github_url": null,
+  "webhook_url": null,
+  "spec_version": "1.0",
+  "payment_provider": null,
+  "polar_product_id": null,
+  "polar_product_price_id": null,
+  "polar_checkout_link_id": null,
+  "checkout_url": null,
+  "created_cycle": 1208,
+  "deployed_cycle": 1208,
+  "health_status": null,
+  "seo_optimized": false,
+  "seo_optimized_at": null
+}
