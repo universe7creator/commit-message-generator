@@ -16,9 +16,9 @@
   ],
   "tech_stack": "Single HTML + Vanilla JS",
   "status": "live",
-  "vercel_url": "https://commit-message-generator-kaaqxkj59-madnessqws-projects.vercel.app",
+  "vercel_url": "https://commit-message-generator-3rhrvcmhq-madnessqws-projects.vercel.app",
   "github_url": "https://github.com/universe7creator/commit-message-generator",
-  "webhook_url": "https://commit-message-generator-kaaqxkj59-madnessqws-projects.vercel.app/api/webhook",
+  "webhook_url": "https://commit-message-generator-3rhrvcmhq-madnessqws-projects.vercel.app/api/webhook",
   "spec_version": "1.0",
   "payment_provider": "polar",
   "polar_product_id": "09186218-1ad3-4c15-89dc-028fd2ba65de",
@@ -30,5 +30,5 @@
   "health_status": "healthy",
   "seo_optimized": true,
   "seo_optimized_at": "2026-04-26T13:08:47.340289Z",
-  "deployment_url": "https://commit-message-generator-kaaqxkj59-madnessqws-projects.vercel.app"
+  "deployment_url": "https://commit-message-generator-3rhrvcmhq-madnessqws-projects.vercel.app"
 }
